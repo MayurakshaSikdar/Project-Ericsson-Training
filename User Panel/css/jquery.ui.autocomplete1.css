@@ -1,0 +1,9 @@
+.ui-corner-all{-moz-border-radius:4px 4px 4px 4px;}
+.ui-widget{font-family:'roboto';font-size:15px;}
+.ui-menu{display:block;float:left;list-style:none outside none;margin:0;}
+.ui-autocomplete{overflow-x:hidden;max-height:200px;width:275px;position:fixed;z-index:9999999;float:left;display:none;min-width:160px;list-style:none;border-top:1px solid #d32f2f;}
+.ui-menu .ui-menu-item{background-color:white;clear:left;float:left;margin:0;padding:12px;width:100%;cursor:pointer;border-bottom:1px solid #d32f2f;font-weight:bold;color:#333;transition:.5s;}
+.ui-menu .ui-menu-item:hover{background-color:#d32f2f;color:white;transition:.5s;}
+.ui-menu .ui-menu-item a{display:block;padding:3px 3px 3px 3px;text-decoration:none;cursor:pointer;background-color:#ffffff;}
+.ui-menu .ui-menu-item a:hover{display:block;padding:3px 3px 3px 3px;text-decoration:none;color:White;cursor:pointer;background-color:#006699;}
+.ui-widget-content a{color:#222222;}
